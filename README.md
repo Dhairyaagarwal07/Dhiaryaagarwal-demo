@@ -1,4 +1,4 @@
 # Dhiaryaagarwal-demo
 This is my first Git respository.
 <br>
-Author - Dhairya Agarwal
+Author - Dhairya (Dhairya agarwal)
